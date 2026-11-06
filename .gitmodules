@@ -1,0 +1,3 @@
+[submodule "fumadocs-template"]
+	path = fumadocs-template
+	url = https://github.com/code-with-von/fumadocs-template.git
